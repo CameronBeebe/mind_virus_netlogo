@@ -9,3 +9,5 @@ TO DO:
 2.  Clean up
 
 3.  Host
+
+4.  Add/clarify licensing
