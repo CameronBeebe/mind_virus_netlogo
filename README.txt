@@ -2,12 +2,13 @@ This model is a large modification of the built-in Netlogo model Virus on a Netw
 
 https://www.inf.fu-berlin.de/lehre/pmo/eng/Dawkins-MindViruses.pdf
 
+Hosted here, but very slow compared to running locally.
+https://cameronbeebe.github.io/Mind_Virus.html
+
 TO DO:
 
 1.  Still need to edit documentation to reflect new functionality
 
 2.  Clean up
 
-3.  Host
-
-4.  Add/clarify licensing
+3.  Add/clarify licensing
